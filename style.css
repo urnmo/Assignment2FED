@@ -1,0 +1,19 @@
+header { height: 800px;
+  background-image: url(https://atap.google.com/ara/static/images/hero.jpg);
+  background-size: cover;}
+
+ h1 {padding: 200px 0px 0px 65px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 5em;
+  color: white;
+  font-weight: bolder;
+  width: 35%;
+  margin-bottom: 20px;
+  }
+
+
+ h2 {padding: 0px 0px 0px 65px;
+ font-family: Arial, Helvetica, sans-serif; 
+ font-size: 1.5em;
+  color: white;
+  font-weight: lighter}
