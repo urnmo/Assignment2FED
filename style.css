@@ -2,7 +2,7 @@ header { height: 800px;
   background-image: url(https://atap.google.com/ara/static/images/hero.jpg);
   background-size: cover;}
 
- h1 {padding: 200px 0px 0px 65px;
+ h1 {padding: 120px 0px 0px 65px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 5em;
   color: white;
@@ -38,5 +38,52 @@ li {
   text-transform: uppercase;
 }
 
-a {color: white;
+header a {color: white;
 text-decoration: none;}
+
+.button {display: inline-block;
+  text-align: center;
+  margin: 100px 0px 0px 65px;
+  
+  font-family: Arial, Helvetica, sans-serif; 
+ font-size: 1em;
+
+  font-weight: normal;
+  width: 10%;
+  min-width: 50px;
+  border: 2px solid white;
+  padding: 20px 20px;
+  
+  text-transform: uppercase;}
+
+  .inputbars {display: inline-block;
+  text-align: right;
+  
+  font-family: Arial, Helvetica, sans-serif; 
+ font-size: .85em;
+
+  font-weight: lighter;
+  width: 15%;
+  min-width: 50px;
+  color: black;
+  text-transform: uppercase;}
+
+section {background-color: #ffc853;
+padding: 20px 20px;
+}
+section a {color: black;
+text-decoration: none;}
+
+.inputbars {margin: 0px 20px;}
+.twitterbar {display: inline-block;
+  text-align: right;
+  
+  font-family: Arial, Helvetica, sans-serif; 
+ font-size: .85em;
+
+  font-weight: lighter;
+  width: 15%;
+  min-width: 50px;
+  color: black;
+  text-transform: uppercase;
+  margin: 0px 0px 0px 550px;}
